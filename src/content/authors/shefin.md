@@ -6,5 +6,5 @@ bio: 'shefin xdd xdd xdd xdd'
 website: 'https://shefin-franklin.vercel.app'
 twitter: 'https://twitter.com/shefin-franklin'
 github: 'https://github.com/shefin-franklin'
-mail: 'shefinfranklin@gmail.com’
+mail: 'shefinfranklin@gmail.com'
 ---
