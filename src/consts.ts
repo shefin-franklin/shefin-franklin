@@ -1,11 +1,11 @@
 import type { IconMap, SocialLink, Site } from '@/types'
 
 export const SITE: Site = {
-  title: "flocto's blog",
+  title: "shefin's blog",
   description:
     'hi this is my personal website / blog. i write about computers and other stuff.',
-  href: 'https://flocto.github.io/',
-  author: 'flocto',
+  href: 'https://shefin-franklin.vercel.app',
+  author: 'shefin',
   locale: 'en-US',
   featuredPostCount: 2,
   postsPerPage: 3,
@@ -19,9 +19,9 @@ export const NAV_LINKS: SocialLink[] = [
 ]
 
 export const SOCIAL_LINKS: SocialLink[] = [
-  { href: 'https://github.com/flocto', label: 'GitHub' },
-  { href: 'https://twitter.com/fl0ct0', label: 'Twitter' },
-  { href: 'flocto@duck.com', label: 'Email' },
+  { href: 'https://github.com/shefin-franklin', label: 'GitHub' },
+  { href: 'https://twitter.com/shefin-franklin', label: 'Twitter' },
+  { href: 'shefinfranklin@gmail.com', label: 'Email' },
   { href: '/rss.xml', label: 'RSS' },
 ]
 
